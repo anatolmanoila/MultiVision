@@ -37,6 +37,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/anatolmanoila/hw_heroku.git"
+        "url": "git@github.com:anatolmanoila/MultiVision.git"
     }
 }
